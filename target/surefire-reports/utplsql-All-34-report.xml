@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="All-34" tests="12" failures="0" skipped="0" errors="0" time="537msec">
+   <testcase classname="MYBOOKS_PKG.UT_1_INS" name="ins-1-4" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_1_INS" name="ins-2" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_1_INS" name="ins-3" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_1_INS" name="ins-4" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_1_INS" name="ins-5" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_2_SEL_BOOK_FUNC" name="sel_book_func-1" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_2_SEL_BOOK_FUNC" name="sel_book_func-2" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_3_SEL_BOOK_PROC" name="sel_book_proc-1" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_3_SEL_BOOK_PROC" name="sel_book_proc-2" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_4_SEL_BOOKNM" name="sel_booknm-1" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_5_UPD" name="ut_upd-1" time="0"></testcase>
+   <testcase classname="MYBOOKS_PKG.UT_6_DEL" name="ut_del-1" time="0"></testcase>
+</testsuite>

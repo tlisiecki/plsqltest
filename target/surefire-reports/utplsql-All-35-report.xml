@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="All-35" tests="4" failures="0" skipped="0" errors="0" time="537msec">
+   <testcase classname="BETWNSTR.UT_BETWNSTR" name="normal" time="0"></testcase>
+   <testcase classname="BETWNSTR.UT_BETWNSTR" name="zero start" time="0"></testcase>
+   <testcase classname="BETWNSTR.UT_BETWNSTR" name="null start" time="0"></testcase>
+   <testcase classname="BETWNSTR.UT_BETWNSTR" name="null end" time="0"></testcase>
+</testsuite>
